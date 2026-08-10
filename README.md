@@ -269,4 +269,7 @@ echo "  git commit -m \"Add SpeedSwap scaffold: build files, mod source, and CI 
 echo "  git push origin speedswap-scaffold"
 echo ""
 echo "После пуша откройте PR на GitHub и/или проверьте Actions — workflow соберёт jar и загрузит артефакт 'speedswap-jar'."
+<<<<< speedswap-scaffold
 
+=======
+>>> main
